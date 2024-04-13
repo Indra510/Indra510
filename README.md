@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on a website designer
-- 📫 How to reach me..- indrsganguly@gmail.com
+- 📫 How to reach me..- indraganguly368@gmail.com
 
 <!---
 Indra510/Indra510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
